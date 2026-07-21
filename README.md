@@ -35,6 +35,6 @@ Throughout this project, I practiced:
 
 ## 🔗 Links
 
-- 🌐 **Live Site:** *(https://frontend-mentor-social-links-profil.vercel.app/)*
+- 🌐 **Live Site:** *(https://social-links-profile-ziad.vercel.app/)*
 - 💻 **Repository:** *(https://github.com/Ziad-mo205/Frontend-Mentor---Social-Links-Profile.git)*
 - 🎯 **Frontend Mentor Solution:** *(Add your solution URL here.)*
