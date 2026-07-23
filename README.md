@@ -37,4 +37,4 @@ Throughout this project, I practiced:
 
 - 🌐 **Live Site:** *(https://social-links-profile-ziad.vercel.app/)*
 - 💻 **Repository:** *(https://github.com/Ziad-mo205/Frontend-Mentor---Social-Links-Profile.git)*
-- 🎯 **Frontend Mentor Solution:** *(https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-media-queries-UlAzgxlNnP)*
+- 🎯 **My Frontend Mentor Solution:** *(https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-media-queries-UlAzgxlNnP)*
